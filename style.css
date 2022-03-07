@@ -1,0 +1,82 @@
+h1 {
+    color: rgba(195, 255, 0, 0.89);
+}
+
+
+
+.header
+{
+    display : flex;
+    background-color: rgba(255, 161, 83, 0.89);
+    justify-content: space-between;
+}
+.footer
+{
+    display : flex;
+    background-color: rgb(60, 211, 60);
+    justify-content:space-between;
+}
+.game
+{
+    display : flex;
+    background-color: rgba(61, 0, 141, 0.431);
+    justify-content: left;
+}
+.thegamer
+{
+    display : flex;
+    background-color: rgb(0, 255, 0);
+    justify-content:center;
+}
+.druid
+{
+    display : flex;
+    background-color: rgb(0, 255, 0);
+    justify-content:center;
+}
+.warrior
+{
+    display : flex;
+    background-color: rgb(0, 255, 0);
+    justify-content:center;
+}
+.best
+{
+    display : flex;
+    background-color: rgb(0, 255, 0);
+    justify-content:center;
+}
+.player
+{
+    display : flex;
+    background-color: rgb(0, 255, 0);
+    justify-content:center;
+}
+.goh
+{
+    display : flex;
+    background-color: rgb(0, 255, 0);
+    justify-content:center;
+}
+.un
+{
+    display : flex;
+    background-color: rgb(0, 255, 0);
+    justify-content:center;
+}
+.te
+{
+    display : flex;
+    background-color: rgb(0, 255, 0);
+    justify-content:center;
+}
+.dani
+{
+    display : flex;
+    background-color: rgb(255, 0, 0);
+    justify-content:center;
+}
+h2,p
+{
+    justify-content: center;
+}
